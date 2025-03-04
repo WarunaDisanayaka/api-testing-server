@@ -1,0 +1,13 @@
+server:
+  port: 8081
+
+spring:
+  application:
+    name: xenia-test-server
+
+external:
+  api:
+    baseUrl: https://xenia-qa.incubatelabs.com
+    contentfulUrl: https://cdn.contentful.com/spaces/81nl0iyxht1e/environments/master/entries
+    accessToken: 3NrvE0u_wpizKe-ekAPEr0-CL4tKe9g6X_S6GRrJIDw
+
